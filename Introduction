@@ -1,0 +1,87 @@
+AWS WORKSHOP:
+AWS stand for amazon web services..
+Key services of AWS:
+->EC2
+->LAMBA
+->S3
+->RDS
+->CLOUDFRONT
+->ROUTE53
+aws significance:
+netflix or x or bookmyshow will use AWS 
+90% of frotune companies will use AWS...
+Spotify will also run under the AWs it will deliver the music
+pintrest is also he same way related to it which run under AWS
+Aws is used by gaming,enterainment,web all run under aws..
+
+Government will run under aws for example the smart cities..
+AWS Regions are part of a global network of data centres..
+
+how website work on internet?
+your personal computer limited memory and have limited storage so it is unable to storage when you develope the high demand 
+web application
+so then this can be rectified as high performance server so that huge amount of data can be managed and 
+accessed.
+servers can be setup in two ways:
+convential server:
+purchasing and maintaining physical server
+cloud computing:
+servers are hosted on the internet by cloud service providers..
+Cloud computing is a on demand delivery of IT resources over the internet..
+it resources are:
+database,servers,storage..
+Benefits of cloud computing:
+infrastructure
+cost
+scalability
+maintenance
+setup time
+security
+
+the browser finds the ip address of jio cinema and this address is needed to locate the server on the internet.
+the browser contacts the jio cinema server and this connection allows data to be exchanged between your device
+and the server
+the browser sends a request to the server
+for the ipl match  this request include details about which video you want to access
+server look for database to find information and retrives he data of video.
+
+see basically if you want see the match of usa in india then it would definately take response time so much 
+so to reuce it we will b using the CDN Server..
+basically it will stores the copies of your contenet on servers around the world.
+the browser connects to the closet CDN Server which quickly delivers the stored content.
+
+
+Key compenents:
+Application server are the cloud computers that store and run applications.
+they handle operations like processing user request,managing database and storage.
+
+Database:
+a cloud database is an online system that stores manages and organize data allowing global access and efficient interaction.
+File storage:
+file storage is a system that saves organizes the digital files such as documents photos and videos enabiling easy access.
+CDN:
+system that distributed servers that deliver web content.
+DNs:
+phonebook of internet
+
+Cloud providers:
+->AWS
+intially aws offer storage and virtual computing services
+later it added database services and cdn serverless computing,ml and ai..
+->Google cloud Platform(Gcp)
+->Azure(microsoft)
+
+AWS:
+Services in Aws are nearly are 200 and basically we consider the main components.
+After creating the aws account after that open console:
+see regions and select hyderabad o mumbai..
+
+Key AWS Services:
+EC2 elastic compute cloud:
+
+
+
+
+
+
+
